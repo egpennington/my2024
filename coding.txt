@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-complete 6 week voyage in 친구
-
-=======
 === coding goals ===
-complete 6 week voyage in 친구
+🚢 complete 6 week voyage in 친구
 
-complete essential javascript in scrimba
->>>>>>> parent of ca8a3b2 (added emojis)
+💻 complete essential javascript in scrimba
