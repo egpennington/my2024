@@ -1,4 +1,2 @@
-=== coding goals ===
-🚢 complete 6 week voyage in 친구
+complete 6 week voyage in 친구
 
-💻 complete essential javascript in scrimba
