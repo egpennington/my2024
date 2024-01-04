@@ -1,5 +1,6 @@
 === coding goals ===
-🚢 complete 6 week voyage in 친구
+🚢 완료해요 6 week voyage in 친구
 
-💻 complete essential javascript in scrimba
-learn git commands and cmd line
+💻 완료해요 essential javascript in scrimba
+
+🚀 배워 git commands and cmd line
