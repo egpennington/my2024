@@ -2,3 +2,4 @@
 🚢 complete 6 week voyage in 친구
 
 💻 complete essential javascript in scrimba
+learn git commands and cmd line
